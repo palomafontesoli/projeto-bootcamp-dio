@@ -1,6 +1,6 @@
 # Desafio de Projeto - DIO
 
-### Anotações sobre Git/GitHub :writing_hand:Comandos no git:
+### Anotações sobre Git/GitHub :writing_hand:
 
 ### O que é o Git?
 
